@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>65f2b159-5343-4159-acc7-5d12d5edbf9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#search-icon-legacy > yt-icon.style-scope.ytd-searchbox > yt-icon-shape.style-scope.yt-icon > icon-shape.yt-spec-icon-shape > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='search-icon-legacy']/yt-icon/yt-icon-shape/icon-shape/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b196d04-2566-4508-ba42-319039c2f337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-icon-legacy&quot;)/yt-icon[@class=&quot;style-scope ytd-searchbox&quot;]/yt-icon-shape[@class=&quot;style-scope yt-icon&quot;]/icon-shape[@class=&quot;yt-spec-icon-shape&quot;]/div[1]</value>
+      <webElementGuid>683ab5ce-28b8-485c-8f27-f051a462146b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='search-icon-legacy']/yt-icon/yt-icon-shape/icon-shape/div</value>
+      <webElementGuid>da2bf5f1-3c0a-41ab-9449-03f4d402dc9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abaikan navigasi'])[1]/following::div[15]</value>
+      <webElementGuid>4a951b6c-7a98-46bd-b215-3ab60763ec57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[17]</value>
+      <webElementGuid>5588811e-5630-459d-8851-7392d4be87aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telusuri'])[1]/preceding::div[2]</value>
+      <webElementGuid>469fe16f-7401-4ac5-830d-b9659ef208b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-searchbox/button/yt-icon/yt-icon-shape/icon-shape/div</value>
+      <webElementGuid>184820df-0ddb-46da-be64-1c61b06f2103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
